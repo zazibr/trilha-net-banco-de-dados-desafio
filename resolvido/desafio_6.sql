@@ -1,0 +1,1 @@
+SELECT Nome, Ano, Duracao FROM Filmes WHERE Duracao >= 106 ORDER BY Duracao

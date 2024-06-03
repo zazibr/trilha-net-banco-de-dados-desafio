@@ -1,0 +1,1 @@
+SELECT Nome, Ano, Duracao FROM Filmes WHERE Ano BETWEEN 2001 AND 2009
